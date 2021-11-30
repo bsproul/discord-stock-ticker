@@ -7,7 +7,7 @@ import (
 	"github.com/bwmarrin/discordgo"
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/rssnyder/discord-stock-ticker/utils"
+	"github.com/bsproul/discord-stock-ticker/utils"
 )
 
 // Gas represents the gas data

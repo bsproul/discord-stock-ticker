@@ -1,5 +1,6 @@
-module github.com/rssnyder/discord-stock-ticker
+module github.com/bsproul/discord-stock-ticker
 
+// +heroku goVersion go1.16
 go 1.16
 
 require (
@@ -12,5 +13,5 @@ require (
 	github.com/prometheus/client_golang v1.11.0
 	github.com/sirupsen/logrus v1.8.1
 	golang.org/x/text v0.3.6
-	modernc.org/sqlite v1.14.1 // indirect
+	modernc.org/sqlite v1.14.1
 )

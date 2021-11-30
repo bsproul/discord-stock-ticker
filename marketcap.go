@@ -13,7 +13,7 @@ import (
 	"golang.org/x/text/language"
 	"golang.org/x/text/message"
 
-	"github.com/rssnyder/discord-stock-ticker/utils"
+	"github.com/bsproul/discord-stock-ticker/utils"
 )
 
 type MarketCap struct {

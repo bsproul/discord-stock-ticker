@@ -13,7 +13,7 @@ import (
 	"github.com/go-redis/redis/v8"
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/rssnyder/discord-stock-ticker/utils"
+	"github.com/bsproul/discord-stock-ticker/utils"
 )
 
 type Ticker struct {
